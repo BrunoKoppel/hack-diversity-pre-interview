@@ -15,7 +15,7 @@ public class Result {
   private final String result;
 
   public Result() {
-    this("OK");
+    this("200 OK");
   }
 
   public Result(String result) {
